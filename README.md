@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pulkit Saini</h1>
+<h3 align="center">Python Developer | Web developer | Ethical Hacker | Youtuber</h3>
 
+
+### Stats
+
+[![Pulkit Saini's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit-py&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit-py&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Pulkit-Py/pulkit-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
