@@ -3,7 +3,7 @@
 <hr>
 <h3 align='center'>📫 How to reach me</h3>   <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Pulkit-py" alt="pulkit-py" /> 
+<img src="https://komarev.com/ghpvc/?username=Pulkit-py" alt="pulkit-py" /> <br/>
 <a href="https://twitter.com/Pulkit_py"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/pulkit_py/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pulkit-saini-002b991a2"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
