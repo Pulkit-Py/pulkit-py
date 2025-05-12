@@ -11,24 +11,43 @@
 <a href="https://pulkit-py.github.io/pulkitpy/"><img src="https://img.icons8.com/office/44/000000/user-location.png"/></a>&nbsp;&nbsp;
 </p>
 <hr>
+
 <p align='center' >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </p>
   
 # Stats
+![Pulkit Saini's github commit](https://github-readme-streak-stats.herokuapp.com/?user=pulkit-py&theme=dark&hide_border=false)<br/>
+![Pulkit Saini's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit-py&count_private=true&show_icons=true&hide=stars&theme=dark)<br/>
+![Pulkit Saini's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit-py&layout=compact&theme=dark)<br/>
 
-[![Pulkit Saini's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit-py&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit-py&layout=compact&theme=dark)](https://github.com/Pulkit-p/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pulkit-py&theme=dark&hide_border=false)<br/>
+  
+
 
 ## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=Pulkit-p](https://github-profile-trophy.vercel.app/?username=pulkit-py))
+![](https://github-profile-trophy.vercel.app/?username=Pulkit-py&theme=dark&margin-w=4)
 
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 **Pulkit-Py/pulkit-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
