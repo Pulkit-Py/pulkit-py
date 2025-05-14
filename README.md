@@ -13,7 +13,7 @@
 <hr>
 
 <p align='center' >
-  
+   
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/Fastapi-%23323330.svg?style=for-the-badge&logo=fastapi) 
