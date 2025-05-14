@@ -37,7 +37,7 @@
  
   
 # Stats
-![Pulkit Saini's github commit](https://github-readme-streak-stats.herokuapp.com/?user=pulkit-py&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pulkit-py&theme=dark)<br/>
 ![Pulkit Saini's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit-py&count_private=true&show_icons=true&hide=stars&theme=dark)<br/>
 ![Pulkit Saini's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit-py&layout=compact&theme=dark)<br/>
 
