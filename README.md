@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulkit Saini</h1>
 <h3 align="center">Python Developer | Web developer | Ethical Hacker | Youtuber</h3> 
-<hr>
+<hr> 
 <h3 align='center'>📫 How to reach me</h3>   <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=Pulkit-py" alt="pulkit-py" /> <br/>
